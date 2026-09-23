@@ -1,0 +1,7 @@
+[
+  "tests/test_login.py::test_login",
+  "tests/test_report.py::test_report_failure",
+  "tests/test_screenshot.py::test_screenshot",
+  "tests/test_search.py::test_product_search",
+  "tests/test_self_healing.py::test_self_healing"
+]
