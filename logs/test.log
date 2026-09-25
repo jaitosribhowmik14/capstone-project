@@ -157,3 +157,87 @@
 2026-09-23 01:07:58,474 - WARNING - AdaptiveQA: SELF-HEAL SUCCESS | Original: ('id', 'this-id-does-not-exist') | Recovered: ('id', 'input-email') | Attempts: 1
 2026-09-23 01:07:58,595 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
 2026-09-23 01:07:58,595 - INFO - Closing browser
+2026-09-25 19:33:02,944 - INFO - Loading configuration
+2026-09-25 19:33:02,948 - INFO - Starting browser
+2026-09-25 19:33:15,275 - INFO - Browser started successfully
+2026-09-25 19:33:15,280 - INFO - Starting login test
+2026-09-25 19:33:15,285 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-25 19:33:19,037 - INFO - Opening My Account menu
+2026-09-25 19:33:19,069 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-25 19:33:19,131 - INFO - Opening Login page
+2026-09-25 19:33:19,160 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-25 19:33:19,486 - INFO - Entering login credentials
+2026-09-25 19:33:19,505 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-email')
+2026-09-25 19:33:19,656 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-password')
+2026-09-25 19:33:19,771 - INFO - AdaptiveQA: Locator STABLE | ('css selector', "input[type='submit']")
+2026-09-25 19:33:19,823 - INFO - Checking login result
+2026-09-25 19:33:19,828 - INFO - Login test completed successfully
+2026-09-25 19:33:19,829 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-25 19:33:19,830 - INFO - Closing browser
+2026-09-25 19:33:22,031 - INFO - Loading configuration
+2026-09-25 19:33:22,032 - INFO - Starting browser
+2026-09-25 19:33:23,255 - INFO - Browser started successfully
+2026-09-25 19:33:23,256 - INFO - Starting product search test
+2026-09-25 19:33:23,256 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-25 19:33:24,694 - INFO - AdaptiveQA: Locator STABLE | ('name', 'search')
+2026-09-25 19:33:24,787 - INFO - AdaptiveQA: Locator STABLE | ('css selector', 'button.btn.btn-default')
+2026-09-25 19:33:25,814 - INFO - Checking search result
+2026-09-25 19:33:25,814 - INFO - Checking product: MacBook
+2026-09-25 19:33:25,822 - INFO - Product search test completed successfully
+2026-09-25 19:33:30,823 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-25 19:33:30,824 - INFO - Closing browser
+2026-09-25 19:33:33,159 - INFO - Loading configuration
+2026-09-25 19:33:33,161 - INFO - Starting browser
+2026-09-25 19:33:34,485 - INFO - Browser started successfully
+2026-09-25 19:33:34,485 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-25 19:33:35,685 - INFO - Opening My Account menu
+2026-09-25 19:33:35,705 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-25 19:33:35,756 - INFO - Opening Login page
+2026-09-25 19:33:35,776 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-25 19:33:46,587 - WARNING - AdaptiveQA: Primary locator failed | ('id', 'this-id-does-not-exist')
+2026-09-25 19:33:46,587 - WARNING - AdaptiveQA: Trying fallback locator 1 | ('id', 'input-email')
+2026-09-25 19:33:46,612 - WARNING - AdaptiveQA: SELF-HEAL SUCCESS | Original: ('id', 'this-id-does-not-exist') | Recovered: ('id', 'input-email') | Attempts: 1
+2026-09-25 19:33:46,762 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-25 19:33:46,762 - INFO - Closing browser
+2026-09-25 19:33:52,049 - INFO - Loading configuration
+2026-09-25 19:33:52,051 - INFO - Starting browser
+2026-09-25 19:33:52,825 - INFO - Browser started successfully
+2026-09-25 19:33:52,826 - INFO - Starting login test
+2026-09-25 19:33:52,827 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-25 19:33:54,437 - INFO - Opening My Account menu
+2026-09-25 19:33:54,460 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-25 19:33:54,515 - INFO - Opening Login page
+2026-09-25 19:33:54,539 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-25 19:33:54,796 - INFO - Entering login credentials
+2026-09-25 19:33:54,814 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-email')
+2026-09-25 19:33:54,932 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-password')
+2026-09-25 19:33:55,024 - INFO - AdaptiveQA: Locator STABLE | ('css selector', "input[type='submit']")
+2026-09-25 19:33:55,973 - INFO - Checking login result
+2026-09-25 19:33:55,981 - INFO - Login test completed successfully
+2026-09-25 19:33:55,982 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-25 19:33:55,982 - INFO - Closing browser
+2026-09-25 19:33:58,240 - INFO - Loading configuration
+2026-09-25 19:33:58,243 - INFO - Starting browser
+2026-09-25 19:33:59,533 - INFO - Browser started successfully
+2026-09-25 19:33:59,534 - INFO - Starting product search test
+2026-09-25 19:33:59,534 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-25 19:34:00,569 - INFO - AdaptiveQA: Locator STABLE | ('name', 'search')
+2026-09-25 19:34:00,670 - INFO - AdaptiveQA: Locator STABLE | ('css selector', 'button.btn.btn-default')
+2026-09-25 19:34:01,097 - INFO - Checking search result
+2026-09-25 19:34:01,097 - INFO - Checking product: MacBook
+2026-09-25 19:34:01,104 - INFO - Product search test completed successfully
+2026-09-25 19:34:06,105 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-25 19:34:06,105 - INFO - Closing browser
+2026-09-25 19:34:08,365 - INFO - Loading configuration
+2026-09-25 19:34:08,366 - INFO - Starting browser
+2026-09-25 19:34:09,611 - INFO - Browser started successfully
+2026-09-25 19:34:09,613 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-25 19:34:10,888 - INFO - Opening My Account menu
+2026-09-25 19:34:10,916 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-25 19:34:10,980 - INFO - Opening Login page
+2026-09-25 19:34:11,004 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-25 19:34:21,849 - WARNING - AdaptiveQA: Primary locator failed | ('id', 'this-id-does-not-exist')
+2026-09-25 19:34:21,849 - WARNING - AdaptiveQA: Trying fallback locator 1 | ('id', 'input-email')
+2026-09-25 19:34:21,868 - WARNING - AdaptiveQA: SELF-HEAL SUCCESS | Original: ('id', 'this-id-does-not-exist') | Recovered: ('id', 'input-email') | Attempts: 1
+2026-09-25 19:34:21,994 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-25 19:34:21,994 - INFO - Closing browser
